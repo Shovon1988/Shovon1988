@@ -23,15 +23,15 @@ These certifications will help me strengthen my skills in cybersecurity, network
 ## 🔗 Connect with Me
 Hi, I am Shovon Saha. As a lifelong learner, I am passionate about bringing a high dedication and results-driven approach to every project. In addition, I read books and code some stuff while pushing myself to the next level.
 Please find me on the multiple links below.
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg =40x40)](https://www.linkedin.com/in/shovon-saha23/)
-[![Discord](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg =40x40)](https://discord.com/users/your-id)
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg =40x40)](https://t.me/your-username)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png =40x40)](https://www.instagram.com/your-username)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shovon1988)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shovon-saha23)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Kwangsa19)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kwangsa19)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kwangsa19)
 
 
-[![Discord](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg =40x40)](https://discord.com/users/your-id)
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg =40x40)](https://t.me/your-username)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png =40x40)](https://www.instagram.com/your-username)
+https://github.com/Kwangsa19
 
 Feel free to reach out if you want to discuss security, open-source tools, or anything tech-related! 🚀
 
